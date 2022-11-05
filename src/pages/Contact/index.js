@@ -53,13 +53,13 @@ const ContactPage = () => {
                                             >
                                                 Last name
                                             </Text>
-                                            <Input
+                                            <input
                                                 className="placeholder:text-bluegray_500 Input"
                                                 wrapClassName="2xl:mt-[9px] 3xl:mt-[10px] lg:mt-[6px] w-[100%] xl:mt-[8px]"
                                                 type="text"
                                                 name="Input One"
                                                 placeholder="Enter your last name"
-                                            ></Input>
+                                            ></input>
                                         </Column>
                                     </Row>
                                     <Column className="justify-start lg:mt-[18px] xl:mt-[23px] 2xl:mt-[26px] 3xl:mt-[31px] w-[100%]">
