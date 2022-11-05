@@ -11,7 +11,7 @@ const ContactPage = () => {
                         <Column className="items-center justify-start w-[100%]">
                             <Column className="justify-end pr-[3px] py-[3px] w-[100%]">
                                 <Text
-                                    className="mt-[1px] text-gray_900 tracking-ls1 w-[auto]"
+                                    className="mt-[36px] text-gray_900 tracking-ls1 w-[auto]"
                                     as="h1"
                                     variant="h1"
                                 >
