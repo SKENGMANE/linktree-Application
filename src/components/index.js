@@ -9,6 +9,9 @@ import { Row } from "./Row";
 import { Stack } from "./Stack";
 import { Text } from "./Text";
 import { Button } from "./Button";
+import { Input } from "./Input";
+import { TextArea } from "./TextArea";
+
 export {
   Column,
   Datepicker,
@@ -21,4 +24,6 @@ export {
   Stack,
   Text,
   Button,
+  Input,
+  TextArea
 };
