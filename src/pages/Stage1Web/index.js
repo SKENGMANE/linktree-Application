@@ -69,7 +69,7 @@ const Stage1WebPage = () => {
                     Design Books
                   </Button></a>
                 <Column className="items-center justify-start lg:mt-[17px] xl:mt-[21px] 2xl:mt-[24px] 3xl:mt-[28px] shadow-bs w-[100%]">
-                <a href="/contact" target="_blank" id="contact"><Button className="font-medium lg:text-[12px] xl:text-[16px] 2xl:text-[18px] 3xl:text-[21px] text-center w-[100%]">
+                <a href="/contact" id="contact"><Button className="font-medium lg:text-[12px] xl:text-[16px] 2xl:text-[18px] 3xl:text-[21px] text-center w-[100%]">
                     Contact
                   </Button></a>
                 </Column>

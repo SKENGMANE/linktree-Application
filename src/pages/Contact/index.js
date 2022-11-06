@@ -45,7 +45,7 @@ const ContactPage = () => {
                                                 placeholder="Enter your first name"
                                             ></Input>
                                         </Column>
-                                        <Column className="justify-start mt-[1px] w-[48%]">
+                                        <Column className="justify-start w-[48%]">
                                             <Text
                                                 className="text-bluegray_800 w-[auto]"
                                                 as="h4"
